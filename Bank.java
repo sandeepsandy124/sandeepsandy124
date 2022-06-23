@@ -1,21 +1,3 @@
-Skip to content
-thallamsaiteja
-/
-task2
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-task2/Bank.java
-@thallamsaiteja
-thallamsaiteja Add files via upload
- 1 contributor
-76 lines (67 sloc)  3.07 KB
 import java.util.*;
 public class Bank
     {
